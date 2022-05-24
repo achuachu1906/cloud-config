@@ -1,5 +1,4 @@
-customer:
-  firstName: ramesh
+
 spring:
   application:
     name: driver-service
